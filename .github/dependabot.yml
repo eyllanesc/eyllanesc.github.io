@@ -8,6 +8,6 @@ updates:
 
   # Maintain dependencies for Go
   - package-ecosystem: "gomod"
-    directory: "/"
+    directory: "/blog"
     schedule:
       interval: "daily"
