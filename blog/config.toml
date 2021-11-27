@@ -752,7 +752,7 @@ series = "series"
 
 [server]
 [[server.headers]]
-  for = '/**.html'
+  for = '/**'
   [server.headers.values]
     Strict-Transport-Security	= "Strict-Transport-Security: max-age=31536000; includeSubDomains"
     Content-Security-Policy = "script-src localhost:1313"
