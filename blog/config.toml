@@ -346,7 +346,7 @@ enableEmoji = true
     # whether to show link to Raw Markdown content of the content
     linkToMarkdown = true
     # configure the link to edit the post
-    linkToEdit = "https://github.com/eyllanesc/eyllanesc.github.io/edit/main/exampleSite/content/{path}"
+    linkToEdit = "https://github.com/eyllanesc/eyllanesc.github.io/edit/main/blog/content/{path}"
     # https://github.com/user/repo/edit/main/{path}
     # https://gitlab.com/user/repo/-/edit/main/{path}
     # https://bitbucket.org/user/repo/src/main/{path}?mode=edit
