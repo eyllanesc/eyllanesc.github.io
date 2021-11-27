@@ -353,7 +353,7 @@ enableEmoji = true
     # whether to show the full text content in RSS
     rssFullText = false
     # Page style ("normal", "wide")
-    pageStyle = "wide"
+    pageStyle = "normal"
     # whether to enable series navigation
     seriesNavigation = true
     # Display a message at the beginning of an article to warn the reader that its content might be outdated.
