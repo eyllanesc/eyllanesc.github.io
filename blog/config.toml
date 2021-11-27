@@ -553,10 +553,10 @@ enableEmoji = true
       [params.page.comment.giscus]
         enable = true
         # owner/repo
-        dataRepo = ""
-        dataRepoId = ""
-        dataCategory = ""
-        dataCategoryId = ""
+        dataRepo = "eyllanesc/eyllanesc.github.io"
+        dataRepoId = "R_kgDOGb-Hrw"
+        dataCategory = "Comments"
+        dataCategoryId = "DIC_kwDOGb-Hr84CAC9i"
         dataMapping = "pathname"
         dataReactionsEnabled = "1"
         dataEmitMetadata = "0"
