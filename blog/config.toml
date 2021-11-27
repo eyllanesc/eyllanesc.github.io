@@ -90,14 +90,6 @@ enableEmoji = true
         url = "https://github.com/eyllanesc/eyllanesc.github.io"
         title = "GitHub"
         weight = 7
-      [[languages.en.menu.main]]
-        identifier = "rss"
-        pre = "<i class='fas fa-rss fa-fw'></i>"
-        post = ""
-        name = ""
-        url = "/index.xml"
-        title = "RSS"
-        weight = 8
     [languages.en.params]
       # site description
       description = "Qt blog"
@@ -583,7 +575,7 @@ enableEmoji = true
 
   # Sponsor config
   [params.sponsor]
-    enable = false
+    enable = true
     bio = "If you find this post helpful, please consider sponsoring."
     link = "https://github.com/sponsors/HEIGE-PCloud"
     custom = "<a href=\"https://www.buymeacoffee.com/eyllanesc\" target=\"_blank\"><img src=\"https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png\" alt=\"Buy Me A Coffee\" style=\"height: 40px !important;width: 145 !important;\" ></a>"
