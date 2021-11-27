@@ -7,9 +7,9 @@ draft: false
 authors: []
 description: ""
 
-tags: []
-categories: []
-series: []
+tags: ["tag1", "tag2", "tag3"]
+categories: ["cat1", "cat2"]
+series: ["series1"]
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
