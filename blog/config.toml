@@ -749,13 +749,3 @@ author = "authors"
 category = "categories"
 tag = "tags"
 series = "series"
-
-[server]
-[[server.headers]]
-  for = '/**'
-  [server.headers.values]
-    Strict-Transport-Security	= "Strict-Transport-Security: max-age=31536000; includeSubDomains"
-    Content-Security-Policy = "script-src localhost:1313"
-    X-Frame-Options = "X-Frame-Options: SAMEORIGIN"
-    X-Content-Type-Options = "X-Content-Type-Options: nosniff"
-    Referrer-Policy	= "strict-origin-when-cross-origin"
