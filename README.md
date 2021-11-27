@@ -8,3 +8,8 @@
 [![GitHub](https://img.shields.io/github/license/eyllanesc/eyllanesc.github.io?style=flat-square)](https://github.com/eyllanesc/eyllanesc.github.io/blob/main/LICENSE)
 
   </div>
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
