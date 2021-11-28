@@ -6,8 +6,8 @@ updates:
     schedule:
       interval: "daily"
 
-  # Maintain dependencies for Go
-  - package-ecosystem: "gomod"
-    directory: "/blog"
+  # Maintain dependencies for git submodule
+  - package-ecosystem: "gitsubmodule"
+    directory: "/"
     schedule:
       interval: "daily"
