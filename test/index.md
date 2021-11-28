@@ -3,7 +3,7 @@
 
 <!--more-->
 
-## FOO
+## Foo
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris faucibus pellentesque libero, eget dignissim nulla egestas nec. Ut iaculis libero ac aliquam scelerisque. Vivamus maximus enim ac magna vestibulum, pellentesque ornare magna rutrum. Aenean suscipit, arcu ut molestie molestie, nisl ex dictum velit, vel aliquam velit tortor eget nibh. Praesent luctus eros mi, a maximus justo fringilla non. Fusce gravida aliquam mi, eget tincidunt justo. Donec finibus dignissim eleifend. Sed placerat rhoncus mi, ac venenatis magna facilisis ac. Cras consectetur luctus dui id laoreet. In a sapien quis dolor interdum blandit. Aliquam erat volutpat.
 
