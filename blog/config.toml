@@ -2,7 +2,7 @@ baseURL = "https://eyllanesc.github.io/"
 # [en, zh-cn, fr, pl, ...] determines default content language
 defaultContentLanguage = "en"
 # theme
-theme = ["github.com/HEIGE-PCloud/DoIt"]
+theme = ["DoIt"]
 
 # website title
 title = "eyllanesc"
