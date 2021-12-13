@@ -1,5 +1,7 @@
+<!-- markdownlint-disable -->
 <div align="center">
-  
+<!-- markdownlint-restore -->
+
 # https://eyllanesc.github.io
 
 
@@ -10,7 +12,9 @@
 [![Themes DoIt](https://img.shields.io/badge/Hugo%20Themes-%40DoIt-blue?style=flat-square)](https://github.com/HEIGE-PCloud/DoIt)
 [![GitHub](https://img.shields.io/github/license/eyllanesc/eyllanesc.github.io?style=flat-square)](https://github.com/eyllanesc/eyllanesc.github.io/blob/main/LICENSE)
 
-  </div>
+<!-- markdownlint-disable -->
+</div>
+<!-- markdownlint-restore -->
 
 # Blog posts
 
