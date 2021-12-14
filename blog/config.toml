@@ -687,6 +687,14 @@ enableEmoji = true
     startLevel = 2
     endLevel = 6
 
+# Author config
+[author]
+  name = "eyllanesc"
+  email = "e.yllanescucho@gmail.com"
+  link = "https://github.com/eyllanesc"
+  avatar = "/images/avatar.webp"
+  gravatarEmail = ""
+
 # Sitemap config
 [sitemap]
   changefreq = "weekly"
