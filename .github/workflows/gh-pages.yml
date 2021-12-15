@@ -22,6 +22,7 @@ jobs:
         filters: |
           blog:
             - 'blog/**'
+        base: 'main'
   deploy:
     runs-on: ubuntu-20.04
     needs: check
