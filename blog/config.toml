@@ -292,6 +292,8 @@ enableEmoji = true
     custom = ''
     # whether to show Hugo and theme info
     hugo = true
+    # Hosted on (HTML format is supported)
+    hostedOn = '<a title="Github Pages" href="https://docs.github.com/en/pages/" target="_blank" rel="noopener noreffer">GitHub Pages</a>' 
     # whether to show copyright info
     copyright = true
     # whether to show the author
