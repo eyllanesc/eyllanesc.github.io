@@ -1,6 +1,0 @@
-+++
-date = ""
-featuredimage = ""
-title = "Foo"
-
-+++
