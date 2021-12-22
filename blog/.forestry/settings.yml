@@ -19,7 +19,7 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: blog/static/images
+upload_dir: blog/assets/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
