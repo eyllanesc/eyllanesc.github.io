@@ -7,13 +7,10 @@ sections:
 - type: directory
   path: blog/content/posts
   label: Posts
-  create: all
+  create: documents
   match: "**/*"
-- type: directory
-  path: blog/content
-  label: Pages
-  create: all
-  match: "*"
+  templates:
+  - post
 upload_dir: blog/assets/images
 public_path: "/images"
 front_matter_path: ''
