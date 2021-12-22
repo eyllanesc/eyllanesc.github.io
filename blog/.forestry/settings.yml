@@ -13,6 +13,11 @@ sections:
   - post
 - type: heading
   label: Foo
+- type: document
+  path: bar
+  label: Bar
+  match: "**/*"
+  read_only: true
 upload_dir: blog/assets/images
 public_path: "/images"
 front_matter_path: ''
