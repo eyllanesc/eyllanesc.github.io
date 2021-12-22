@@ -17,6 +17,6 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello](https://eyllanesc.github.io/hello/)
+- [Test](https://eyllanesc.github.io/hello/)
 - [test](https://eyllanesc.github.io/test/)
 <!-- BLOG-POST-LIST:END -->
