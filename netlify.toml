@@ -1,6 +1,6 @@
 [build]
 publish = "blog/public"
-command = "cd blog & hugo --gc --minify"
+command = "cd blog && hugo --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.91.0"
