@@ -4,8 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: heading
-  label: Foo
 - type: directory
   path: blog/content/posts
   label: Posts
@@ -13,6 +11,8 @@ sections:
   match: "**/*"
   templates:
   - post
+- type: heading
+  label: Foo
 upload_dir: blog/assets/images
 public_path: "/images"
 front_matter_path: ''
