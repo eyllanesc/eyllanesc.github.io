@@ -22,4 +22,5 @@ fields:
     maxSize: 64
   label: featuredImage
 pages:
+- blog/content/posts/foo.md
 - blog/content/posts/hello/test.md
