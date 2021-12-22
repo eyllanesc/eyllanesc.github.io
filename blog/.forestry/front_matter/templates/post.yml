@@ -21,3 +21,5 @@ fields:
   config:
     maxSize: 64
   label: featuredImage
+pages:
+- blog/content/posts/hello.md
