@@ -18,5 +18,4 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Test](https://eyllanesc.github.io/hello/)
-- [test](https://eyllanesc.github.io/test/)
 <!-- BLOG-POST-LIST:END -->
