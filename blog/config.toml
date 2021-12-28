@@ -34,7 +34,7 @@ enableEmoji = true
       [[languages.en.menu.main]]
         identifier = "posts"
         # you can add extra information before the name (HTML format is supported), such as icons
-        pre = ""
+        pre = "<i class='fas fa-newspaper fa-fw'></i>"
         # you can add extra information after the name (HTML format is supported), such as icons
         post = ""
         name = "Posts"
@@ -44,7 +44,7 @@ enableEmoji = true
         weight = 1
       [[languages.en.menu.main]]
         identifier = "tags"
-        pre = ""
+        pre = "<i class='fas fa-tag fa-fw'></i>"
         post = ""
         name = "Tags"
         url = "/tags/"
@@ -52,7 +52,7 @@ enableEmoji = true
         weight = 2
       [[languages.en.menu.main]]
         identifier = "categories"
-        pre = ""
+        pre = "<i class='fas fa-stream fa-fw'></i>"
         post = ""
         name = "Categories"
         url = "/categories/"
@@ -60,7 +60,7 @@ enableEmoji = true
         weight = 3
       [[languages.en.menu.main]]
         identifier = "series"
-        pre = ""
+        pre = "<i class='fas fa-list-alt fa-fw'></i>"
         post = ""
         name = "Series"
         url = "/series/"
@@ -68,7 +68,7 @@ enableEmoji = true
         weight = 4
       [[languages.en.menu.main]]
         identifier = "authors"
-        pre = ""
+        pre = "<i class='fas fa-user-edit fa-fw'></i>"
         post = ""
         name = "Authors"
         url = "/authors/"
@@ -76,7 +76,7 @@ enableEmoji = true
         weight = 5
       [[languages.en.menu.main]]
         identifier = "about"
-        pre = ""
+        pre = "<i class='fas fa-user-check fa-fw'></i>"
         post = ""
         name = "About"
         url = "/about/"
