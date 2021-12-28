@@ -76,7 +76,7 @@ enableEmoji = true
         weight = 5
       [[languages.en.menu.main]]
         identifier = "about"
-        pre = "<i class='fas fa-user-check fa-fw'></i>"
+        pre = "<i class='fas fa-readme fa-fw'></i>"
         post = ""
         name = "About"
         url = "/about/"
