@@ -279,7 +279,7 @@ enableEmoji = true
       # title name
       name = "eyllanesc"
       # you can add extra information before the name (HTML format is supported), such as icons
-      pre = "<i class='fas fa-code-branch fa-fw'></i>"
+      pre = "<i class='fas fa-robot fa-fw'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       # whether to use typeit animation for title name
