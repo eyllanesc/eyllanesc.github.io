@@ -9,3 +9,4 @@ Lo anterior es equivalente a que:
 
 - {{< math >}}a{{< /math >}} es un factor de {{< math >}}b{{< /math >}}.
 - {{< math >}}b{{< /math >}} es un múltipo de {{< math >}}a{{< /math >}}.
+
