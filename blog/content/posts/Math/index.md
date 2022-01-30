@@ -14,3 +14,8 @@ Lo anterior es equivalente a que:
 
 - {{< math >}}a{{< /math >}} es un factor de {{< math >}}b{{< /math >}}.
 - {{< math >}}b{{< /math >}} es un múltipo de {{< math >}}a{{< /math >}}.
+
+Enlaces:
+
+- https://es.wikipedia.org/wiki/Efecto_Einstellung
+- https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem
