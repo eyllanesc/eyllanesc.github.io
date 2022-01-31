@@ -21,5 +21,4 @@ Enlaces:
 - <https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem>
 - <https://docdro.id/FXhq6Mh>
 
-<!-- markdownlint-disable-next-line -->
-{{< youtube lG4VkPoG3ko >}}
+{{< YouTube lG4VkPoG3ko >}}
