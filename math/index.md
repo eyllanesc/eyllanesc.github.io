@@ -16,3 +16,5 @@ Enlaces:
 - <https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem>
 - <https://docdro.id/FXhq6Mh>
 
+{{< youtube lG4VkPoG3ko >}}
+
