@@ -15,11 +15,14 @@ Lo anterior es equivalente a que:
 - {{< math >}}a{{< /math >}} es un factor de {{< math >}}b{{< /math >}}.
 - {{< math >}}b{{< /math >}} es un múltipo de {{< math >}}a{{< /math >}}.
 
-Enlaces:
+- [Videos Divisibilidad, MCD y MCM](https://docdro.id/0fN2Umc)
+- [Problemas de divisibilidad, MCD y MCM](https://docdro.id/FXhq6Mh)
+
+## Fracciones
+
+## Otros
 
 - <https://es.wikipedia.org/wiki/Efecto_Einstellung>
 - <https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem>
-- <https://docdro.id/FXhq6Mh>
-- [Videos Divisibilidad, MCD y MCM](https://docdro.id/0fN2Umc)
 
 {{< youtube lG4VkPoG3ko >}}
