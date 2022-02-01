@@ -22,4 +22,4 @@ Enlaces:
 - <https://docdro.id/FXhq6Mh>
 - [Videos Divisibilidad, MCD y MCM](https://docdro.id/0fN2Umc)
 
-{{< YouTube lG4VkPoG3ko >}}
+{{< youtube lG4VkPoG3ko >}}
