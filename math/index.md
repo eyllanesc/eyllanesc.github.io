@@ -15,7 +15,7 @@ Enlaces:
 - <https://es.wikipedia.org/wiki/Efecto_Einstellung>
 - <https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem>
 - <https://docdro.id/FXhq6Mh>
+- [Videos Divisibilidad, MCD y MCM](https://docdro.id/0fN2Umc)
 
-<!-- markdownlint-disable-next-line -->
 {{< youtube lG4VkPoG3ko >}}
 
