@@ -10,8 +10,12 @@ Lo anterior es equivalente a que:
 - {{< math >}}a{{< /math >}} es un factor de {{< math >}}b{{< /math >}}.
 - {{< math >}}b{{< /math >}} es un múltipo de {{< math >}}a{{< /math >}}.
 
+{{< admonition info "Enlaces" >}}
+
 - [Videos Divisibilidad, MCD y MCM](https://docdro.id/0fN2Umc)
 - [Problemas de divisibilidad, MCD y MCM](https://docdro.id/FXhq6Mh)
+
+{{< /admonition >}}
 
 ## Fracciones
 
