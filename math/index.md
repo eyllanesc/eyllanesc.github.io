@@ -1,4 +1,4 @@
-# Mat
+# Matemática
 
 
 ## Divisibilidad
@@ -28,7 +28,7 @@ Lo anterior es equivalente a que:
 
 2. [ ] Teresa tiene un reloj que da una señal cada 60 minutos, otro reloj que da una señal cada 90 minutos y un tercero que da una señal cada 150 minutos. A las 9 de la mañana los tres relojes han coincidido en dar la señal. ¿A qué hora coinciden por tercera vez despues de las 9 de la mañana?
 
-3. [ ] Un libro tiene entre 400 y 450 páginas. Si las contamos de 2 en 2 no sobra ninguna, si las contamos de 5 en 5 no sobra ninguna y si las contamos de 7 en 7 tampoco sobra ninguna. ¿Cu ántas páginas tiene el libro?
+3. [ ] Un libro tiene entre 400 y 450 páginas. Si las contamos de 2 en 2 no sobra ninguna, si las contamos de 5 en 5 no sobra ninguna y si las contamos de 7 en 7 tampoco sobra ninguna. ¿Cuántas páginas tiene el libro?
 
 4. [ ] Paloma tiene en su tienda entre 336 y 342 mecheros que no puede guardar en cajas del mismo número, salvo que los guarde todos juntos o de uno en uno. ¿Cuántos tiene exactamente?
 
@@ -54,6 +54,44 @@ primos. ¿Cuántos libros tiene? ¿Cuáles son los dos números primos?
 13. [x] Tengo 36 caramelos de fresa, 27 de limón y 30 de menta. Quiero formar el mayor número de bolsas iguales con todos los caramelos de forma que no sobre ninguno. ¿Cuántos caramelos habrá en cada bolsa?¿Cuántos caramelos de fresa habrá en cada bolsa?¿Cuántas bolsas necesitaré?
 
 ## Fracciones
+
+### Problemas
+
+1. [ ] Un corredor ha recorrido los $\frac{5}{8}$ del maratón de hoy, de 42 $\text{km}$. ¿Cuántos kilómetros lleva recorridos?
+
+2. [ ] Tres hermanos se reparten una herencia de 104000 soles. Álvaro posee $\frac{3}{8}$ de la herencia, Marta, $\frac{5}{12}$ y Carmen, el resto. ¿Qué parte de la herencia le ha correspondido a Carmen?
+
+3. [ ] Los $\frac{2}{5}$ de los ingresos de una comunidad de vecinos se emplean en combustible, $\frac{1}{8}$ se emplea en electricidad, $\frac{1}{12}$ en la recogida de basuras, $\frac{1}{4}$ en mantenimiento del edificio y el resto se emplea en limpieza. 
+
+    a. ¿Qué fracción de los ingresos se emplea en limpieza? 
+
+    b. De acuerdo con la fracción de ingresos empleada, ordena las partidas enumeradas de menor a mayor.
+
+4. [ ] Dos automóviles A y B hacen un mismo trayecto de 572 $\text{km}$. El automóvil A lleva recorrido los $\frac{5}{11}$ del trayecto cuando el B ha recorrido los $\frac{6}{13}$ del mismo. ¿Cuál de los dos va primero? ¿Cuántos kilómetros llevan recorridos cada uno?
+
+5. [ ] Alicia dispone de 300 soles para compras. El jueves gastó $\frac{2}{5}$ de esa cantidad y el sábado los $\frac{3}{4}$ de lo que le quedaba. ¿Cuánto gastó cada día y cuánto le queda al final?
+
+6. [ ] María y Pedro discuten acerca de quien estudió más para el examen que tendrán en la tarde.
+María argumenta que ella estudió $\frac{7}{16}$ h; mientras que por su parte, Pedro sostiene que
+estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
+
+7. [ ] Santiago tiene $\frac{7}{3} \text{m}$ de alambre y utiliza $\frac{4}{3}$, ¿cuántos metros de alambre le quedan?
+
+8. [ ] Viviana vendió $3\frac{2}{7}$  pliegos de cartulina el martes y $4\frac{4}{7}$ pliegos el miércoles. ¿Cuánta cartulina vendió en total?
+
+9. [ ] Un examen de Matemáticas ha sido aprobado por $\frac{6}{9}$ de los estudiantes. Al resto de los estudiantes le toca repetir el examen. Si el grupo está compuesto por 45 estudiantes, ¿Cuántos estudiantes deben repetir dicho examen?
+
+10. A una persona le preguntan cuánto pesa, responde: "La mitad de la cuarta parte de mi peso es igual a 10 kg". ¿Cuánto pesa esa persona?
+
+11. En un quiosco se han vendido a lo largo de la mañana los $\frac{2}{3}$ de un lote de los periódicos. Por la tarde se han vendido la mitad de los que han quedado. ¿Qué fracción del total de periódicos representan los vendidos por la tarde? Si son 2 periódicos los que no se han vendido, ¿cuántos había al empezar la venta?
+
+12. Una finca se divide en tres parcelas. La primera es igual a los $\frac{4}{7}$ de la superficie de la finca y la segunda es igual a la mitad de la primera. ¿Qué fracción de la finca representa la tercera parcela? Si la extensión de la finca es de 14000 $\text{m}^2$, ¿cuál es la superficie de cada parcela?
+
+13. Una persona sale de compras. Gasta los $\frac{3}{7}$ de su dinero en el supermercado; después $\frac{1}{2}$ de lo que le queda en una tienda de regalos y, finalmente, $\frac{1}{2}$ de lo restante en una librería. Si le quedan 12 soles. ¿Cuánto dinero tenía la salir de la casa?
+
+14. Una mujer realiza un trabajo en 4 horas y su compañero tarda 6 horas en realizar el mismo trabajo. ¿Cuánto tiempo emplearían trabajando los dos juntos?
+
+15. Dada una cuerda, Marta coge la mitad; de lo que queda, Juan coge la mitad; luego, del resto, Adrián coge la mitad; de lo que queda, Carmen coge $\frac{2}{5}$. Al final quedan 30 cm. ¿Cuál era la longitud?
 
 ## Otros
 
