@@ -18,5 +18,5 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mat](https://eyllanesc.github.io/math/)
+- [Matemática](https://eyllanesc.github.io/math/)
 <!-- BLOG-POST-LIST:END -->
