@@ -28,11 +28,11 @@ Lo anterior es equivalente a que:
 
 2. [ ] Teresa tiene un reloj que da una señal cada 60 minutos, otro reloj que da una señal cada 90 minutos y un tercero que da una señal cada 150 minutos. A las 9 de la mañana los tres relojes han coincidido en dar la señal. ¿A qué hora coinciden por tercera vez despues de las 9 de la mañana?
 
-3. [ ] Un libro tiene entre 400 y 450 páginas. Si las contamos de 2 en 2 no sobra ninguna, si las contamos de 5 en 5 no sobra ninguna y si las contamos de 7 en 7 tampoco sobra ninguna. ¿Cuántas páginas tiene el libro?
+3. [x] Un libro tiene entre 400 y 450 páginas. Si las contamos de 2 en 2 no sobra ninguna, si las contamos de 5 en 5 no sobra ninguna y si las contamos de 7 en 7 tampoco sobra ninguna. ¿Cuántas páginas tiene el libro?
 
-4. [ ] Paloma tiene en su tienda entre 336 y 342 mecheros que no puede guardar en cajas del mismo número, salvo que los guarde todos juntos o de uno en uno. ¿Cuántos tiene exactamente?
+4. [x] Paloma tiene en su tienda entre 336 y 342 mecheros que no puede guardar en cajas del mismo número, salvo que los guarde todos juntos o de uno en uno. ¿Cuántos tiene exactamente?
 
-5. [ ] ¿Podrías encontrar un número entre 30 y 50 que tuviese m ́as de dos divisores y que fuese
+5. [x] ¿Podrías encontrar un número entre 30 y 50 que tuviese más de dos divisores y que fuese
 primo?
 
 6. [ ] ¿Por qué número hay que sustituir $x$ para que el número $\overline{27x}$ sea primo?
@@ -59,7 +59,7 @@ primos. ¿Cuántos libros tiene? ¿Cuáles son los dos números primos?
 
 1. [ ] Un corredor ha recorrido los $\frac{5}{8}$ del maratón de hoy, de 42 $\text{km}$. ¿Cuántos kilómetros lleva recorridos?
 
-2. [ ] Tres hermanos se reparten una herencia de 104000 soles. Álvaro posee $\frac{3}{8}$ de la herencia, Marta, $\frac{5}{12}$ y Carmen, el resto. ¿Qué parte de la herencia le ha correspondido a Carmen?
+2. [x] Tres hermanos se reparten una herencia de 104000 soles. Álvaro posee $\frac{3}{8}$ de la herencia, Marta, $\frac{5}{12}$ y Carmen, el resto. ¿Qué parte de la herencia le ha correspondido a Carmen?
 
 3. [ ] Los $\frac{2}{5}$ de los ingresos de una comunidad de vecinos se emplean en combustible, $\frac{1}{8}$ se emplea en electricidad, $\frac{1}{12}$ en la recogida de basuras, $\frac{1}{4}$ en mantenimiento del edificio y el resto se emplea en limpieza. 
 
@@ -67,7 +67,7 @@ primos. ¿Cuántos libros tiene? ¿Cuáles son los dos números primos?
 
     b. De acuerdo con la fracción de ingresos empleada, ordena las partidas enumeradas de menor a mayor.
 
-4. [ ] Dos automóviles A y B hacen un mismo trayecto de 572 $\text{km}$. El automóvil A lleva recorrido los $\frac{5}{11}$ del trayecto cuando el B ha recorrido los $\frac{6}{13}$ del mismo. ¿Cuál de los dos va primero? ¿Cuántos kilómetros llevan recorridos cada uno?
+4. [x] Dos automóviles A y B hacen un mismo trayecto de 572 $\text{km}$. El automóvil A lleva recorrido los $\frac{5}{11}$ del trayecto cuando el B ha recorrido los $\frac{6}{13}$ del mismo. ¿Cuál de los dos va primero? ¿Cuántos kilómetros llevan recorridos cada uno?
 
 5. [ ] Alicia dispone de 300 soles para compras. El jueves gastó $\frac{2}{5}$ de esa cantidad y el sábado los $\frac{3}{4}$ de lo que le quedaba. ¿Cuánto gastó cada día y cuánto le queda al final?
 
