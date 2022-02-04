@@ -86,17 +86,35 @@ estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
 
 9. [ ] Un examen de Matemáticas ha sido aprobado por $\frac{6}{9}$ de los estudiantes. Al resto de los estudiantes le toca repetir el examen. Si el grupo está compuesto por 45 estudiantes, ¿Cuántos estudiantes deben repetir dicho examen?
 
-10. A una persona le preguntan cuánto pesa, responde: "La mitad de la cuarta parte de mi peso es igual a 10 kg". ¿Cuánto pesa esa persona?
+10. [ ] A una persona le preguntan cuánto pesa, responde: "La mitad de la cuarta parte de mi peso es igual a 10 kg". ¿Cuánto pesa esa persona?
 
-11. En un quiosco se han vendido a lo largo de la mañana los $\frac{2}{3}$ de un lote de los periódicos. Por la tarde se han vendido la mitad de los que han quedado. ¿Qué fracción del total de periódicos representan los vendidos por la tarde? Si son 2 periódicos los que no se han vendido, ¿cuántos había al empezar la venta?
+11. [ ] En un quiosco se han vendido a lo largo de la mañana los $\frac{2}{3}$ de un lote de los periódicos. Por la tarde se han vendido la mitad de los que han quedado. ¿Qué fracción del total de periódicos representan los vendidos por la tarde? Si son 2 periódicos los que no se han vendido, ¿cuántos había al empezar la venta?
 
-12. Una finca se divide en tres parcelas. La primera es igual a los $\frac{4}{7}$ de la superficie de la finca y la segunda es igual a la mitad de la primera. ¿Qué fracción de la finca representa la tercera parcela? Si la extensión de la finca es de 14000 $\text{m}^2$, ¿cuál es la superficie de cada parcela?
+12. [ ] Una finca se divide en tres parcelas. La primera es igual a los $\frac{4}{7}$ de la superficie de la finca y la segunda es igual a la mitad de la primera. ¿Qué fracción de la finca representa la tercera parcela? Si la extensión de la finca es de 14000 $\text{m}^2$, ¿cuál es la superficie de cada parcela?
 
-13. Una persona sale de compras. Gasta los $\frac{3}{7}$ de su dinero en el supermercado; después $\frac{1}{2}$ de lo que le queda en una tienda de regalos y, finalmente, $\frac{1}{2}$ de lo restante en una librería. Si le quedan 12 soles. ¿Cuánto dinero tenía la salir de la casa?
+13. [ ] Una persona sale de compras. Gasta los $\frac{3}{7}$ de su dinero en el supermercado; después $\frac{1}{2}$ de lo que le queda en una tienda de regalos y, finalmente, $\frac{1}{2}$ de lo restante en una librería. Si le quedan 12 soles. ¿Cuánto dinero tenía la salir de la casa?
 
-14. Una mujer realiza un trabajo en 4 horas y su compañero tarda 6 horas en realizar el mismo trabajo. ¿Cuánto tiempo emplearían trabajando los dos juntos?
+14. [ ] Una mujer realiza un trabajo en 4 horas y su compañero tarda 6 horas en realizar el mismo trabajo. ¿Cuánto tiempo emplearían trabajando los dos juntos?
 
-15. Dada una cuerda, Marta coge la mitad; de lo que queda, Juan coge la mitad; luego, del resto, Adrián coge la mitad; de lo que queda, Carmen coge $\frac{2}{5}$. Al final quedan 30 cm. ¿Cuál era la longitud?
+15. [ ] Dada una cuerda, Marta coge la mitad; de lo que queda, Juan coge la mitad; luego, del resto, Adrián coge la mitad; de lo que queda, Carmen coge $\frac{2}{5}$. Al final quedan 30 cm. ¿Cuál era la longitud?
+
+## Enumeración
+
+1. [ ] ¿Cuántos números de 3 cifras del sistema decimal utilizan al menos una cifra 2, o al menos una cifra 3 en su escritura?
+
+2. [ ] ¿Cuántos números de la forma $\overline{abc}$ con $a$, $b$ y $a$ diferentes entre si existen?, tales que:
+
+    $a$: 1, 2, 3, 4, 5, 6 ó 7
+
+    $b$: 1, 3, 5 ó 7
+
+    $c$: 0, 1, 2, 3, 4, 5, 6, 7 ó 8
+
+3. [ ] En el sistema de base 9, ¿Cual es la cantidad de números capicuas de 4 cifras hay?
+
+4. [ ] ¿En qué sistema de numeración se emplean 2240 cifras para escribir todos los números capicuas de 5 cifras?
+
+5. [ ] Las páginas de un libro se enumera en la base 8 utilizando 788 cifras, ¿Cuántas páginas tiene el libro?
 
 ## Otros
 
@@ -104,3 +122,7 @@ estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
 - <https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem>
 
 {{< youtube lG4VkPoG3ko >}}
+
+## Extras
+
+- Un oso camina 10 km hacia el sur, 10 hacia el este y 10 hacia el norte, volviendo al punto del que partió. ¿De qué color es el oso?
