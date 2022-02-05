@@ -121,3 +121,5 @@ estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
 ## Extras
 
 - Un oso camina 10 km hacia el sur, 10 hacia el este y 10 hacia el norte, volviendo al punto del que partió. ¿De qué color es el oso?
+- Resolver $\overline{ABC} / 5 = A \times B \times C$ si $A$, $B$ y $C$ son dígitos del 1 al 9.
+
