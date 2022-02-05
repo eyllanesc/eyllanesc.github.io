@@ -122,4 +122,5 @@ estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
 
 - Un oso camina 10 km hacia el sur, 10 hacia el este y 10 hacia el norte, volviendo al punto del que partió. ¿De qué color es el oso?
 - Resolver $\overline{ABC} / 5 = A \times B \times C$ si $A$, $B$ y $C$ son dígitos del 1 al 9.
+- Un hombre se levanta por la noche y descubre que no hay luz en su habitación. Abre el cajón de los guantes, en el que hay diez guantes negros y diez azules. ¿Cuántos debe coger para asegurarse de que obtiene un par del mismo color?
 
