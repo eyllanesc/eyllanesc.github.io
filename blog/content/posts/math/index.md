@@ -6,16 +6,7 @@ math:
   enable: true
 ---
 
-## Divisibilidad
-
-Sea {{< math >}}$a, b \in \mathbb{N}${{< /math >}} con {{< math >}}$a \neq 0${{< /math >}}. Se dice que "{{< math >}}a{{< /math >}} divide a {{< math >}}b{{< /math >}}" si existe {{< math >}}$m \in \mathbb{N}${{< /math >}} tal que {{< math >}}$b = m \times a${{< /math >}}.
-
-Lo anterior es equivalente a que:
-
-- {{< math >}}a{{< /math >}} es un factor de {{< math >}}b{{< /math >}}.
-- {{< math >}}b{{< /math >}} es un múltipo de {{< math >}}a{{< /math >}}.
-
-### Videos de divisibilidad, MCD y MCM
+## Videos
 
 {{< youtube 0UwRrwexMXg >}}
 
@@ -27,7 +18,9 @@ Lo anterior es equivalente a que:
 
 {{< youtube I51lyBgzrQ0 >}}
 
-### Problemas
+## Problemas
+
+### Divisibilidad
 
 1. [x] Un faro se enciende cada 18 segundos, otro cada 36 segundos y un tercero cada minuto. A las 6:30 de la tarde los tres coinciden.
 
@@ -58,9 +51,7 @@ primos. ¿Cuántos libros tiene? ¿Cuáles son los dos números primos?
 
 13. [x] Tengo 36 caramelos de fresa, 27 de limón y 30 de menta. Quiero formar el mayor número de bolsas iguales con todos los caramelos de forma que no sobre ninguno. ¿Cuántos caramelos habrá en cada bolsa?¿Cuántos caramelos de fresa habrá en cada bolsa?¿Cuántas bolsas necesitaré?
 
-## Fracciones
-
-### Problemas
+### Fracciones
 
 1. [ ] Un corredor ha recorrido los $\frac{5}{8}$ del maratón de hoy, de 42 $\text{km}$. ¿Cuántos kilómetros lleva recorridos?
 
@@ -98,7 +89,7 @@ estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
 
 15. [ ] Dada una cuerda, Marta coge la mitad; de lo que queda, Juan coge la mitad; luego, del resto, Adrián coge la mitad; de lo que queda, Carmen coge $\frac{2}{5}$. Al final quedan 30 cm. ¿Cuál era la longitud?
 
-## Enumeración
+### Enumeración
 
 1. [ ] ¿Cuántos números de 3 cifras del sistema decimal utilizan al menos una cifra 2, o al menos una cifra 3 en su escritura?
 
@@ -115,6 +106,10 @@ estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
 4. [ ] ¿En qué sistema de numeración se emplean 2240 cifras para escribir todos los números capicuas de 5 cifras?
 
 5. [ ] Las páginas de un libro se enumera en la base 8 utilizando 788 cifras, ¿Cuántas páginas tiene el libro?
+
+### Decimales
+
+#### Fracción generatriz
 
 ## Otros
 
