@@ -115,6 +115,8 @@ estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
 
 {{< youtube _5wFActPCsI >}}
 
+{{< youtube xfz7Gfbd2Bg >}}
+
 ## Extras
 
 - Un oso camina 10 km hacia el sur, 10 hacia el este y 10 hacia el norte, volviendo al punto del que partió. ¿De qué color es el oso?
