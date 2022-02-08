@@ -89,7 +89,7 @@ estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
 
 15. [ ] Dada una cuerda, Marta coge la mitad; de lo que queda, Juan coge la mitad; luego, del resto, Adrián coge la mitad; de lo que queda, Carmen coge $\frac{2}{5}$. Al final quedan 30 cm. ¿Cuál era la longitud?
 
-### Enumeración
+### Numeración
 
 1. [ ] ¿Cuántos números de 3 cifras del sistema decimal utilizan al menos una cifra 2, o al menos una cifra 3 en su escritura?
 
