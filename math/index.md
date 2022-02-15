@@ -84,6 +84,10 @@ estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
 
 15. [ ] Dada una cuerda, Marta coge la mitad; de lo que queda, Juan coge la mitad; luego, del resto, Adrián coge la mitad; de lo que queda, Carmen coge $\frac{2}{5}$. Al final quedan 30 cm. ¿Cuál era la longitud?
 
+16. [ ] Evaluar:
+
+    $\frac{1}{2 \times 5} + \frac{1}{5 \times 8} + \frac{1}{8 \times 11} + \frac{1}{11 \times 14} + ...  + \frac{1}{302 \times 305}$
+
 ### Numeración
 
 1. [ ] ¿Cuántos números de 3 cifras del sistema decimal utilizan al menos una cifra 2, o al menos una cifra 3 en su escritura?
