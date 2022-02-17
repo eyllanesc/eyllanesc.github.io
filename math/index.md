@@ -116,6 +116,10 @@ estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
 
 #### Fracción generatriz
 
+### Rectas paralelas y secantes
+
+- <https://geometriapdf.blogspot.com/2018/06/angulos-en-paralelas-y-una-secante.html>
+
 ## Otros
 
 - <https://es.wikipedia.org/wiki/Efecto_Einstellung>
