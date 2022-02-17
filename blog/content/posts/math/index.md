@@ -91,7 +91,13 @@ estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
 
 16. [ ] Evaluar:
 
-    $\frac{1}{2 \times 5} + \frac{1}{5 \times 8} + \frac{1}{8 \times 11} + \frac{1}{11 \times 14} + ...  + \frac{1}{302 \times 305}$
+    $\frac{1}{2 \times 5} + \frac{1}{5 \times 8} + \frac{1}{8 \times 11} + \frac{1}{11 \times 14} + \ldots + \frac{1}{302 \times 305}$
+
+17. [ ] Evaluar:
+
+    $\frac{3}{4} \times \frac{8}{9} \times \frac{15}{16} \times \frac{24}{25} \times \frac{48}{49} \times \ldots \times \frac{1023}{1024}$
+
+    Ayuda: $1024 = 32 \times 32$, $1023 = 31 \times 33$
 
 ### Numeración
 
