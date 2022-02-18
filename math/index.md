@@ -52,9 +52,9 @@ primos. ¿Cuántos libros tiene? ¿Cuáles son los dos números primos?
 
 2. [x] Tres hermanos se reparten una herencia de 104000 soles. Álvaro posee $\frac{3}{8}$ de la herencia, Marta, $\frac{5}{12}$ y Carmen, el resto. ¿Qué parte de la herencia le ha correspondido a Carmen?
 
-3. [ ] Los $\frac{2}{5}$ de los ingresos de una comunidad de vecinos se emplean en combustible, $\frac{1}{8}$ se emplea en electricidad, $\frac{1}{12}$ en la recogida de basuras, $\frac{1}{4}$ en mantenimiento del edificio y el resto se emplea en limpieza. 
+3. [ ] Los $\frac{2}{5}$ de los ingresos de una comunidad de vecinos se emplean en combustible, $\frac{1}{8}$ se emplea en electricidad, $\frac{1}{12}$ en la recogida de basuras, $\frac{1}{4}$ en mantenimiento del edificio y el resto se emplea en limpieza.
 
-    a. ¿Qué fracción de los ingresos se emplea en limpieza? 
+    a. ¿Qué fracción de los ingresos se emplea en limpieza?
 
     b. De acuerdo con la fracción de ingresos empleada, ordena las partidas enumeradas de menor a mayor.
 
@@ -129,7 +129,6 @@ estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
 - Disminuyendo una misma cantidad a los dos términos de la fracción propia $\frac{a}{b}$, resulta la fracción $\frac{b}{a}$. ¿Cuál es aquella cantidad?
 
 - Dos cajas contienen en total 825 naranjas, y una de las cajas tiene 125 naranjas más que la otra. ¿Cuál es el valor de la caja que tiene más naranjas si una docena de naranjas cuesta S/3.60?
-
 
 ## Otros
 
