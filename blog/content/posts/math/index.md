@@ -125,6 +125,17 @@ estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
 
 - <https://geometriapdf.blogspot.com/2018/06/angulos-en-paralelas-y-una-secante.html>
 
+### Planteamiento de ecuaciones
+
+<https://matemathweb.com/razonamiento-matematico/planteo-de-ecuaciones/#Planteo_de_ecuaciones_nivel_preuniversitario>
+
+- Con el dinero que tengo puedo comprar 20 libros u 80 cuadernos, si al final compré 8 libros. ¿Cuántos cuadernos puedo comprar con el dinero que me queda?
+
+- Disminuyendo una misma cantidad a los dos términos de la fracción propia $\frac{a}{b}$, resulta la fracción $\frac{b}{a}$. ¿Cuál es aquella cantidad?
+
+- Dos cajas contienen en total 825 naranjas, y una de las cajas tiene 125 naranjas más que la otra. ¿Cuál es el valor de la caja que tiene más naranjas si una docena de naranjas cuesta S/3.60?
+
+
 ## Otros
 
 - <https://es.wikipedia.org/wiki/Efecto_Einstellung>
