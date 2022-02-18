@@ -155,3 +155,5 @@ estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
 - Un acertijo conocido por ser empleado en una examen de admisión a un colegio de Hong Kong y por existir la tendencia de que los niños suelen tener mejor rendimiento en resolverlo que los adultos. Se basa en adivinar qué número tiene la plaza de parking ocupada de un aparcamiento con seis plazas. Siguen el siguiente orden: 16, 06, 68, 88, ¿? (la plaza ocupada que tenemos que adivinar) y 98.
 
 - {{< youtube  gaDiyWowbUc >}}
+
+- {{< youtube  yiU4vUeWEYM >}}
