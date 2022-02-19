@@ -51,6 +51,8 @@ primos. ¿Cuántos libros tiene? ¿Cuáles son los dos números primos?
 
 13. [x] Tengo 36 caramelos de fresa, 27 de limón y 30 de menta. Quiero formar el mayor número de bolsas iguales con todos los caramelos de forma que no sobre ninguno. ¿Cuántos caramelos habrá en cada bolsa?¿Cuántos caramelos de fresa habrá en cada bolsa?¿Cuántas bolsas necesitaré?
 
+14. {{< youtube vxHrfIom-YA >}}
+
 ### Fracciones
 
 1. [ ] Un corredor ha recorrido los $\frac{5}{8}$ del maratón de hoy, de 42 $\text{km}$. ¿Cuántos kilómetros lleva recorridos?
