@@ -25,6 +25,13 @@ jobs:
           hugo-version: "latest"
           extended: true
 
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install blog/themes/DoIt
+
       - name: Build
         run: hugo --source blog --minify
 
