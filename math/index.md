@@ -118,6 +118,8 @@ estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
 
 #### Fracción generatriz
 
+- Si $ 0{,}\overgroup{3ab} = \frac{M}{37} $ con $ m \in \mathbb{N} $, ¿Cual es la menor suma de $a + b + M$?
+
 ### Rectas paralelas y secantes
 
 - <https://geometriapdf.blogspot.com/2018/06/angulos-en-paralelas-y-una-secante.html>
