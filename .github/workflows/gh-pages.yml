@@ -30,7 +30,7 @@ jobs:
           node-version: '16'
 
       - name: Install dependencies
-        run: npm install blog/themes/DoIt
+        run: npm install
 
       - name: Build
         run: hugo --source blog --minify
