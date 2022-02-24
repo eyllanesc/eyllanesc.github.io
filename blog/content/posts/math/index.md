@@ -178,4 +178,4 @@ Haz un resumen de la Paradoja de Simpson usando los siguientes materiales:
 - <https://magnet.xataka.com/en-diez-minutos/que-paradoja-simpson-que-va-a-ser-muy-util-para-entender-proximos-meses-pandemia>
 - <https://www.masciencia.org/news/2019/3/26/la-paradoja-de-simpson>
 - <https://www.youtube.com/watch?v=hpbXkrm68rI>
-- <https://www.youtube.com/watch?v=Xl7x_k0OUO0>
+- <https://www.youtube.com/watch?v=Xl7x_k0OUO0> 
