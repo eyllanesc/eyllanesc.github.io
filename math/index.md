@@ -175,3 +175,7 @@ Haz un resumen de la Paradoja de Simpson usando los siguientes materiales:
 - <https://www.youtube.com/watch?v=hpbXkrm68rI>
 - <https://www.youtube.com/watch?v=Xl7x_k0OUO0>
 
+## Programa Curricular de Educación Secundaría
+
+Desde la página 149 de <http://www.minedu.gob.pe/curriculo/pdf/programa-curricular-educacion-secundaria.pdf>
+
