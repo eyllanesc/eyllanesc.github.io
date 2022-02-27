@@ -182,4 +182,4 @@ Haz un resumen de la Paradoja de Simpson usando los siguientes materiales:
 
 ## Programa Curricular de Educación Secundaría
 
-Desde la página 149 de <http://www.minedu.gob.pe/curriculo/pdf/programa-curricular-educacion-secundaria.pdf>
+Desde la página 147 de <http://www.minedu.gob.pe/curriculo/pdf/programa-curricular-educacion-secundaria.pdf>
