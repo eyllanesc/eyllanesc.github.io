@@ -48,7 +48,7 @@ primos. ¿Cuántos libros tiene? ¿Cuáles son los dos números primos?
 
 14. {{< youtube vxHrfIom-YA >}}
 
-### Fracciones
+### Números Racionales
 
 1. [x] Un corredor ha recorrido los $\frac{5}{8}$ del maratón de hoy, de 42 $\text{km}$. ¿Cuántos kilómetros lleva recorridos?
 
@@ -95,6 +95,10 @@ estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
     $\frac{3}{4} \times \frac{8}{9} \times \frac{15}{16} \times \frac{24}{25} \times \frac{48}{49} \times \ldots \times \frac{1023}{1024}$
 
     Ayuda: $1024 = 32 \times 32$, $1023 = 31 \times 33$
+
+18. [ ] ¿Cuantas fracciones irreductibles compredidas entre $\frac{3}{5}$ y $\frac{4}{5}$ son tales que la diferencia de sus términos sea 8?
+
+19. [ ] ¿Cuantas fraccionales equivalentes a \frac{9}{13}$ existen, tales que el numerador y el denominador sean de 3 y 4 cifras, respectivamente?
 
 ### Numeración
 
@@ -180,4 +184,3 @@ Haz un resumen de la Paradoja de Simpson usando los siguientes materiales:
 ## Programa Curricular de Educación Secundaría
 
 Desde la página 147 de <http://www.minedu.gob.pe/curriculo/pdf/programa-curricular-educacion-secundaria.pdf>
-
