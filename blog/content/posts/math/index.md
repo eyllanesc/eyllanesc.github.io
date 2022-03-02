@@ -103,7 +103,7 @@ estudió $\frac{2}{5} \text{h}$. ¿Quién estudió más?
 
 18. [ ] ¿Cuantas fracciones irreductibles compredidas entre $\frac{3}{5}$ y $\frac{4}{5}$ son tales que la diferencia de sus términos sea 8?
 
-19. [ ] ¿Cuantas fraccionales equivalentes a \frac{9}{13}$ existen, tales que el numerador y el denominador sean de 3 y 4 cifras, respectivamente?
+19. [ ] ¿Cuantas fraccionales equivalentes a $\frac{9}{13}$ existen, tales que el numerador y el denominador sean de 3 y 4 cifras, respectivamente?
 
 ### Numeración
 
