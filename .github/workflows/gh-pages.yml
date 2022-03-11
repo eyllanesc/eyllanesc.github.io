@@ -36,7 +36,7 @@ jobs:
         run: hugo --source blog --minify
 
       - name: Audit with Lighthouse
-        uses: treosh/lighthouse-ci-action@v8
+        uses: treosh/lighthouse-ci-action@9.3.0
         with:
           configPath: ".github/lighthouse/lighthouserc.yml"
           temporaryPublicStorage: true
