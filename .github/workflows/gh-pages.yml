@@ -35,6 +35,14 @@ jobs:
       - name: Build
         run: hugo --source blog --minify
 
+      - name: Audit with Lighthouse
+        uses: treosh/lighthouse-ci-action@v8
+        with:
+          configPath: ".github/lighthouse/lighthouserc.yml"
+          temporaryPublicStorage: true
+          uploadArtifacts: true
+          runs: 4
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
