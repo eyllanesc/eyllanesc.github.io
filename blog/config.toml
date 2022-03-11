@@ -389,16 +389,17 @@ enableEmoji = true
       maxShownLines = 10
     [params.page.table]
       # whether to enable sorting in the tables
-      sort = true    [params.page.header]
+      sort = true    
+    [params.page.header]
       # whether to enable auto header numbering
-    [params.page.header.number]
-      enable = true
-      [params.page.header.number.format]
-        h2 = "{h2} {title}"
-        h3 = "{h2}.{h3} {title}"
-        h4 = "{h2}.{h3}.{h4} {title}"
-        h5 = "{h2}.{h3}.{h4}.{h5} {title}"
-        h6 = "{h2}.{h3}.{h4}.{h5}.{h6} {title}"
+      [params.page.header.number]
+        enable = true
+        [params.page.header.number.format]
+          h2 = "{h2} {title}"
+          h3 = "{h2}.{h3} {title}"
+          h4 = "{h2}.{h3}.{h4} {title}"
+          h5 = "{h2}.{h3}.{h4}.{h5} {title}"
+          h6 = "{h2}.{h3}.{h4}.{h5}.{h6} {title}"
     # KaTeX mathematical formulas config (KaTeX https://katex.org/)
     [params.page.math]
       enable = false
