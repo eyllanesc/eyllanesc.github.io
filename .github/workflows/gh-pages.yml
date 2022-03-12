@@ -10,7 +10,7 @@ on:
       
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
@@ -25,7 +25,7 @@ jobs:
           hugo-version: "latest"
           extended: true
 
-      - uses: actions/setup-node@v3.0.0
+      - uses: actions/setup-node@v3
         with:
           node-version: '16'
 
@@ -36,7 +36,7 @@ jobs:
         run: hugo --source blog --minify
 
       - name: Audit with Lighthouse
-        uses: treosh/lighthouse-ci-action@9.3.0
+        uses: treosh/lighthouse-ci-action@v9
         with:
           configPath: ".github/lighthouse/lighthouserc.yml"
           temporaryPublicStorage: true
